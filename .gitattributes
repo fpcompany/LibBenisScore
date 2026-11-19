@@ -1,1 +1,5 @@
 * text=auto eol=lf
+
+# Kept out of the hosts' release zips (git archive)
+.gitattributes export-ignore
+README.md export-ignore
